@@ -1,2 +1,2 @@
 # django_lab
- learn it bro
+ learning it yo
